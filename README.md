@@ -1,5 +1,4 @@
 # GFG-Coding-Questions
 
 
-// I will post all solved GFG coding questions here.
-// THANK YOU
+To track all GFG coding questions.
